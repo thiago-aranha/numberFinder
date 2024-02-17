@@ -1,7 +1,7 @@
-#Projeto Descubra o número
+# Projeto Descubra o número
 
-##Sobre
+## Sobre
 Projeto utilizado nos cursos de lógica de programação da Alura
 
-##Tecnologias
+## Tecnologias
 Desenvolvido em HTML, CSS e JavaScript
